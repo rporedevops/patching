@@ -1,0 +1,10 @@
+[Ansible_Hosts]
+ihplin002
+porlin002
+
+[Sat_Hosts]
+ihplin001
+wallin001
+burlin001
+porlin001
+havlin001
