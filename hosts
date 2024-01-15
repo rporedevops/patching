@@ -1,8 +1,8 @@
-[Ansible_Hosts]
+[ansible]
 ihplin002
 porlin002
 
-[Sat_Hosts]
+[satellite]
 ihplin001
 wallin001
 burlin001
